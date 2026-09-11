@@ -1,2 +1,2 @@
 just created feature1
-jfuv chanes in b.txt from master
+jfuv changes in feature1
